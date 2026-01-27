@@ -1,134 +1,104 @@
-<!-- Dynamic Header -->
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26height%3D280%26section%3Dheader%26text%3DDinesh%2520Harsha%26fontSize%3D80%26animation%3DfadeIn%26fontAlignY%3D35%26desc%3DFull%2520Stack%2520Developer%2520%257C%2520MERN%2520Specialist%2520%257C%2520UI/UX%2520Designer%26descSize%3D20%26descAlignY%3D55%26descAlign%3D50" alt="Header" width="100%" />
-</div>
-
-<!-- Typing Animation -->
-
-<div align="center">
-<a href="https://www.google.com/search?q=https://git.io/typing-svg">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26weight%3D500%26size%3D25%26pause%3D1000%26color%3D2E9BF3%26center%3Dtrue%26vCenter%3Dtrue%26width%3D600%26lines%3DBuilding%2Bclean,%2Befficient%2Bweb%2Bapps%3BCrafting%2Bpixel-perfect%2BUI%252FUX%3BExploring%2BMERN%2BStack%2BArchitecture%3BTurning%2Bcoffee%2Binto%2Bcode%2B%25E2%2598%2595" alt="Typing SVG" />
-</a>
-</div>
-
-<!-- Social Icons (Clean & Centered) -->
-
-<div align="center">
-<a href="https://www.google.com/search?q=https://github.com/kdineshharsha" target="_blank">
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://linkedin.com/in/dineshharsha182" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/linkedin-%25230077B5.svg%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
-</a>
-<a href="mailto:dineshharsha182@gmail.com" target="blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Gmail-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email"/>
-</a>
-<a href="https://www.google.com/search?q=https://instagram.com/itz.me.harsha" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Instagram-%2523E4405F.svg%3Fstyle%3Dfor-the-badge%26logo%3DInstagram%26logoColor%3Dwhite" alt="Instagram"/>
-</a>
-</div>
-
-<br />
-
-<!-- Animated Separator -->
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-</div>
-
-<br />
-
-<!-- About Section (Side-by-Side Layout) -->
-
-<table border="0" align="center">
-<tr>
-<td width="60%" valign="top">
-<h2>⚡ About Me</h2>
-<p>
-Hey there! I'm a passionate <b>Software Developer</b> and <b>Student</b> on a mission to bridge the gap between complex backend logic and beautiful frontend interfaces.
+<!-- Futuristic Neon Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=Hey%2C%20I'm%20Dinesh%20👋&fontAlign=50&fontAlignY=40&color=0:00D1FF,100:7A00FF&fontColor=FFFFFF&fontSize=50&desc=Full‑Stack%20Developer%20•%20MERN%20•%20UI%2FUX%20•%20Animations&descAlign=50&descAlignY=65&animation=twinkling" alt="header" />
 </p>
-<ul>
-<li>🔭 Working on full-stack projects using the <b>MERN stack</b></li>
-<li>🌱 Diving deeper into <b>UI/UX design</b> and <b>animations</b></li>
-<li>💬 Ask me about <b>React hooks</b> or <b>API integration</b></li>
-<li>⚡ <b>Fun fact:</b> I love blending aesthetics with functionality!</li>
-</ul>
-</td>
-<td width="40%" align="center">
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif" width="100%" />
-</td>
-</tr>
-</table>
+# 💫 About Me:
+## 👋 About Me<br><br>Hey there! I'm Dinesh — a passionate **software developer** and a curious **student** on a mission to build clean, efficient, and visually engaging web applications.<br><br>- 🔭 I’m currently working on full-stack projects using the **MERN stack** (MongoDB, Express, React, Node.js)<br>- 🌱 I’m diving deeper into **UI/UX design**, **animations**, and **performance optimization**<br>- 💬 Ask me about **React hooks**, **API integration**, or how to make your UI shimmer ✨<br>- 🤝 I’m looking to collaborate on creative and impactful open-source projects<br>- ⚡ Fun fact: I love blending aesthetics with functionality — from QR code art to sleek dashboards<br><br>Let’s connect and build something awesome together!<br>
 
-<br />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&duration=3500&pause=900&color=00E6FF&center=true&vCenter=true&width=900&lines=Building+clean%2C+fast+%26+beautiful+web+apps;MERN+Stack+%7C+UI%2FUX+%7C+Animations+%7C+Performance;Open‑source+collaborator+ready+to+ship+🚀" alt="typing" />
+</p>
 
-<!-- Tech Stack (Grouped) -->
+# 💫 About Me
+Hey there! I'm Dinesh — a passionate software developer and a curious student on a mission to build clean, efficient, and visually engaging web applications.
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dinesh.harsha.1481) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz_.me._harsha_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dineshharsha182) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dineshharsha182@gmail.com) 
 
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
+- 🔭 I’m currently working on full-stack projects using the MERN stack (MongoDB, Express, React, Node.js)
+- 🌱 I’m diving deeper into UI/UX design, animations, and performance optimization
+- 💬 Ask me about React hooks, API integration, or how to make your UI shimmer ✨
+- 🤝 I’m looking to collaborate on creative and impactful open-source projects
+- ⚡ Fun fact: I love blending aesthetics with functionality — from QR code art to sleek dashboards
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kdineshharsha&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=kdineshharsha&theme=codeSTACKr&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kdineshharsha&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<table align="center">
-<tr>
-<td align="center" width="900px">
-<!-- Frontend -->
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dflat-square%26logo%3Dhtml5%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dflat-square%26logo%3Dcss3%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dflat-square%26logo%3Djavascript%26logoColor%3Dblack" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-20232A%3Fstyle%3Dflat-square%26logo%3Dreact%26logoColor%3D61DAFB" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Tailwind_CSS-38B2AC%3Fstyle%3Dflat-square%26logo%3Dtailwind-css%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Figma-F24E1E%3Fstyle%3Dflat-square%26logo%3Dfigma%26logoColor%3Dwhite" />
-<br /><br />
-<!-- Backend & DB -->
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-43853D%3Fstyle%3Dflat-square%26logo%3Dnode.js%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Express.js-404D59%3Fstyle%3Dflat-square%26logo%3Dexpress" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dflat-square%26logo%3Dpython%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/MongoDB-4EA94B%3Fstyle%3Dflat-square%26logo%3Dmongodb%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/MySQL-005C84%3Fstyle%3Dflat-square%26logo%3Dmysql%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Supabase-3ECF8E%3Fstyle%3Dflat-square%26logo%3Dsupabase%26logoColor%3Dwhite" />
-<br /><br />
-<!-- Tools -->
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05033%3Fstyle%3Dflat-square%26logo%3Dgit%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-100000%3Fstyle%3Dflat-square%26logo%3Dgithub%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/VS_Code-0078D4%3Fstyle%3Dflat-square%26logo%3Dvisual%2520studio%2520code%26logoColor%3Dwhite" />
-</td>
-</tr>
-</table>
+Let’s connect and build something awesome together!
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<br />
+## 🌐 Socials
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/dinesh.harsha.1481)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/itz_.me._harsha_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dineshharsha182)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dineshharsha182@gmail.com)
 
-<!-- GitHub Stats -->
+## 💻 Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,tailwind,vite,mongodb,mysql,sqlite,supabase,python,postman,git,github,vercel,netlify,figma,eslint&perline=12" />
+</p>
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<!-- Extras not on skillicons -->
+<p align="left">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=0d1117" alt="Render" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/FFmpeg-0A0A0A?style=for-the-badge&logo=ffmpeg&logoColor=5cb85c" alt="FFmpeg" />
+</p>
 
-<div align="center">
-<table>
-<tr>
-<td>
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dkdineshharsha%26theme%3Dtokyonight%26hide_border%3Dtrue%26show_icons%3Dtrue%26count_private%3Dtrue" width="400" />
-</td>
-<td>
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dkdineshharsha%26theme%3Dtokyonight%26hide_border%3Dtrue%26layout%3Dcompact" width="400" />
-</td>
-</tr>
-</table>
-<img src="https://www.google.com/search?q=https://nirzak-streak-stats.vercel.app/%3Fuser%3Dkdineshharsha%26theme%3Dtokyonight%26hide_border%3Dtrue" width="800" />
-</div>
+## 📊 GitHub Stats
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kdineshharsha&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=00E6FF&icon_color=7A00FF" alt="stats" />
+  <img height="170" src="https://streak-stats.demolab.com?user=kdineshharsha&theme=radical&hide_border=true&background=0D1117&ring=00E6FF&fire=7A00FF&currStreakLabel=00E6FF" alt="streak" />
+</p>
 
-<br />
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdineshharsha&layout=compact&langs_count=10&hide_border=true&theme=radical&bg_color=0D1117&title_color=00E6FF" alt="top-langs" />
+</p>
 
-<!-- Random Quote -->
+### 🔝 Top Contributed Repos
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=kdineshharsha&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+</p>
 
-<div align="center">
-<img src="https://www.google.com/search?q=https://quotes-github-readme.vercel.app/api%3Ftype%3Dhorizontal%26theme%3Dtokyonight" width="100%" />
-</div>
+## 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kdineshharsha&theme=react-dark&bg_color=0D1117&hide_border=true&color=00E6FF&line=7A00FF&point=00E6FF" alt="activity-graph" />
+</p>
 
-<br />
+## 🏆 Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kdineshharsha&theme=algolia&no-bg=true&no-frame=true&row=1&column=7" alt="trophies" />
+</p>
 
-<div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26height%3D100%26section%3Dfooter" width="100%" />
-</div>
+## ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="dev-quote" />
+</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=kdineshharsha&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<div align="center">
-<br />
-<img src="https://www.google.com/search?q=https://visitcount.itsvg.in/api%3Fid%3Dkdineshharsha%26icon%3D3%26color%3D6" />
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=kdineshharsha&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=kdineshharsha&icon=0&color=0" alt="Profile views" />
+  </a>
+</p>
+
+<!-- 🐍 Optional: Contributions Snake (requires GitHub Action). 
+Uncomment the block below after you set up the action:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kdineshharsha/kdineshharsha/output/snake.svg" alt="snake animation" />
+</p>
+-->
+
+<!-- Futuristic Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:7A00FF,100:00D1FF" alt="footer" />
+</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
